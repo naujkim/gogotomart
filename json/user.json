@@ -1,0 +1,20 @@
+[
+    {
+      
+     "userId" : 1,
+     "firstName": "sean",
+     "lastName": "kim",
+     "image": "./image.png",
+     "url" : "./shop-grid.html",
+     "active": true,
+     "role": "martCustomer",
+     "point" : 400
+     
+    }
+    
+  ]
+  
+  
+  
+
+

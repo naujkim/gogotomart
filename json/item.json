@@ -1,0 +1,39 @@
+[
+    {
+      
+     "itemId" : 1,
+     "categoryId" : 1,
+     "name": "iphone3",
+     "nameKor": "아이폰3",
+     "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Proin eget tortor risus.",
+     "descriptionKor": "예비비는 총액으로 국회의 의결을 얻어야 한다. 예비비의 지출은 차기국회의 승인을 얻어야 한다. 모든 국민은 고문을 받지 아니하며, 형사상 자기에게 불리한 진술을 강요당하지 아니한다.모든 국민은 행위시의 법률에 의하여 범죄를 구성하지 아니하는 행위로 소추되지 아니하며, 동일한 범죄에 대하여 거듭 처벌받지 아니한다. 국회는 법률에 저촉되지 아니하는 범위안에서 의사와 내부규율에 관한 규칙을 제정할 수 있다.",
+     "thumbnailImage": "./image.png",
+     "image1": "./image.png",
+     "image2": "./image.png",
+     "image3": "./image.png",
+     "image4": "./image.png",
+     "detailImage": "./image.png",
+     "detailImageKor": "./image.png",
+     "origin" : "korea",
+     "originKor" : "한국",
+     "url" : "./shop-grid.html",
+     "active": true,
+     "eventItem": true,
+     "RecommendedItems": false,
+     "StockQty" : 20,
+     "soldQty" :2, 
+     "return" : 2,
+     "originalPrice" : 50,
+     "salesPrice" : 20,
+     "shipping" : "4 days standard shipping.",
+     "weight" : 0.5,
+     "tax" : 0.6,
+     "createDate": "2015-10-26T07:46:36.611Z",
+     "eventStartDate": "2015-10-26T07:46:36.611Z",
+     "eventEndDate": "2015-10-26T07:46:36.611Z",
+     "lastSalesDate": "2015-10-26T07:46:36.611Z"
+
+    }
+    
+  ]
+  

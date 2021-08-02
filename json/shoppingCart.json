@@ -1,0 +1,46 @@
+
+    {
+      "products" : [
+          {
+            "itemId" : 1,
+            "name": "elec",
+            "korName": "전자제품",
+            "image": "./image.png",
+            "url" : "./shop-grid.html",
+            "price" : 40,
+            "qty" : 3,
+            "tax" : 0.6,
+            "shippingCost" : 3.22
+          },
+          {
+            "itemId" : 2,
+            "name": "baby",
+            "korName": "아기용품",
+            "image": "./image.png",
+            "url" : "./shop-grid.html",
+            "price" : 30,
+            "qty" : 5,
+            "tax" : 0.6,
+            "shippingCost" : 3.22  
+          }
+      ],
+
+
+      "user" : {
+          "id": 2,
+          "type": "user",
+          "firstName" : "eric",
+          "lastName": "Lee",
+          "address" : "9001 braddock rd ",
+          "city" : "springfield",
+          "state" : "VA",
+          "zip" : 22015,
+          "phone" : "789-789-7894",
+          "point": 300
+      }
+    }
+    
+  
+  
+  
+  
